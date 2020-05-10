@@ -3,7 +3,7 @@
   "name": "Search for image",
   "description": "Right-click on an image to search Google for that image.",
   "version": "1.0",
-  "permissions": ["contextMenus", "tabs"],
+  "permissions": ["contextMenus"],
   "background": {
     "scripts": ["background.js"]
   },
